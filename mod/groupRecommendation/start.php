@@ -53,9 +53,9 @@ $body = <<<__BODY
 
 </style>
 <div id="header">
- <h4> Here are some groups related to GC2.0 Tools  </h4><br>  
+ 
 
-<a href="http://localhost/elgg-1.12.2/groups/profile/135/blueprint-2020"><font color="#60B8F7">Blueprint 2020</font></a><br>
+<h4> Hey member this  </h4><a href="http://localhost/elgg-1.12.2/groups/profile/135/blueprint-2020"><font color="#60B8F7">Blueprint 2020</font><h4> may interest you </h4></a><br>
 </div>
 
 __BODY;
