@@ -55,7 +55,7 @@ $body = <<<__BODY
 <div id="header">
  
 
-<h4> Hey member, this <a href="http://localhost/elgg-1.12.2/groups/profile/135/blueprint-2020"><font color="#60B8F7">Blueprint 2020</font> may interest you </h4></a><br>
+<h4> Hey member, this <a href="http://localhost/elgg-1.12.2/groups/profile/135/blueprint-2020"><font color="#60B8F7">Blueprint 2020</font></a> may interest you </h4><br>
 </div>
 
 __BODY;
